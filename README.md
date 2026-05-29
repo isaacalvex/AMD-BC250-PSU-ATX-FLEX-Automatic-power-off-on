@@ -1,0 +1,1 @@
+# AMD-BC250-PSU-ATX-FLEX-Automatic-power-off-on
