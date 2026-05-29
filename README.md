@@ -1,5 +1,8 @@
 # ATX/SFX Power Supply Control Integration for AMD BC-250
 
+<img width="6000" height="3375" alt="PC817" src="https://github.com/user-attachments/assets/c3d5459d-3887-40f3-9eb0-28d9daa2d030" />
+
+
 This repository provides a hardware and software solution to adapt standard computer power supplies (ATX, SFX, Flex ATX, etc.) for use with the AMD BC-250 motherboard inside a conventional PC case.
 
 ## Author and Acknowledgments
