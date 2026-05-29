@@ -17,21 +17,3 @@ The main goal is to replicate native desktop computer power behavior on the AMD 
 | Jumper wires and soldering equipment | | |
 
 ---
-
-# Controle de Fonte ATX/SFX na AMD BC-250
-
-Este tutorial tem como foco pessoas que querem utilizar um gabinete de computador convencional e fontes de alimentação padrão (ATX, SFX, Flex ATX, etc.) com a placa-mãe AMD BC-250.
-
-## Objetivo
-
-O objetivo é fazer com que a fonte replique exatamente o mesmo comportamento que ela teria se estivesse sendo usada em um computador normal. A modificação permite que a fonte se desligue de forma nativa e automática, utilizando apenas um botão pulsador comum (sem trava), eliminando a necessidade de apertar o botão liga/desliga novamente ou de utilizar um segundo botão/chave manual.
-
-## Componentes Necessários
-
-| Componente | Foto | Link |
-| --- | --- | --- |
-| Placa Breakout ATX com circuito NE555 (1x) | | |
-| Arduino Nano (1x) | | |
-| Optoacoplador PC817 (1x) | | |
-| Resistor de 220 Ohms (1x) | | |
-| Fios de jumper e material de solda | | |
