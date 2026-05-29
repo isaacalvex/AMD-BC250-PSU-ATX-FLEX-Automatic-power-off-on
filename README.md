@@ -1,4 +1,4 @@
-# ATX/SFX Power Supply Control Integration for AMD BC-250
+# ATX/SFX/FLEX Power Supply Control Integration for AMD BC-250
 
 This tutorial focuses on adapting standard computer power supplies (ATX, SFX, Flex ATX, etc.) for use with the AMD BC-250 motherboard inside a conventional PC case.
 
